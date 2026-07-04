@@ -1,3 +1,0 @@
-DATABASE_URL="postgresql://neondb_owner:npg_VLcd36bpBeyS@ep-calm-tooth-ah2ck4g9-pooler.c-3.us-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require"
-AUTH_SECRET="paste_your_generated_secret_here"
-AUTH_TRUST_HOST=true
